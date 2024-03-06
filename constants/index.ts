@@ -70,30 +70,27 @@ export const manufacturers = [
     },
   ];
   
-  export const footerLinks = [
+ export const footerLinks = [
     {
       title: "About",
       links: [
-        { title: "How it works", url: "/" },
-        { title: "Featured", url: "/" },
-        { title: "Partnership", url: "/" },
-        { title: "Bussiness Relation", url: "/" },
+        { title: "How it works", url: "https://github.com/NatanelMordov/MN_Cars" },
+        { title: "Partnership", url: "https://natanelmordovsite.netlify.app/" },
+        { title: "Bussiness Relation", url: "https://natanelmordovsite.netlify.app/" },
       ],
     },
-    {
-      title: "Company",
-      links: [
-        { title: "Events", url: "/" },
-        { title: "Blog", url: "/" },
-        { title: "Podcast", url: "/" },
-        { title: "Invite a friend", url: "/" },
-      ],
-    },
+      {
+        title: "Company",
+        links: [
+          { title: "Blog", url: "/" },
+          { title: "Podcast", url: "/" },
+          { title: "Invite a friend", url: "/" },
+        ],
+      },
     {
       title: "Socials",
       links: [
-        { title: "Discord", url: "/" },
-        { title: "Instagram", url: "/" },
+        { title: "Linkedin", url: "https://www.linkedin.com/in/natanel-mordov-171a081b5/" },
         { title: "Twitter", url: "/" },
         { title: "Facebook", url: "/" },
       ],
