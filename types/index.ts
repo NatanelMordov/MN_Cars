@@ -13,7 +13,7 @@ export interface SearchManufacturProps{
     setManufactor:(manufactur: string)=>void;
 }
 export interface CarProps{
-    city_mpg:number,
+    City_Mpg:number,
     class:string,
     combination_mpg:number,
     cylinders:number,
